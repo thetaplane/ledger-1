@@ -3,7 +3,10 @@
 > Coming soon
 
 
-### Content
+### Content and Operations
+
+Work authentication and industrial vending
+
 
 ```
 action: do-message
